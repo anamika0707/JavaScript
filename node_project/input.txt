@@ -1,0 +1,2 @@
+hello everyone 
+how are you i am just learning the node.js and exploring the node.js module this is to learn the reading from input file 

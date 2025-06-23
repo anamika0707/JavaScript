@@ -1,0 +1,3 @@
+the node module folder contains every installed dependency for the project
+package-lock.json it records the exact version of every installed dependency,including its sub-dependencies and their versions
+pakage.json file contains descriptive and functional metadata about a project such as 
